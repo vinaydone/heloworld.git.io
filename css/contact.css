@@ -1,0 +1,15 @@
+.bg1{
+    background-image:url('../images/cnt\ \(2\).jpg');
+    background-size: cover;
+    min-height: 500px;
+}
+.ul{
+   list-style-type: square type ;
+}
+.li{
+    float: left;
+}
+.bor a:hover{
+color: azure;
+font-size: 25px;
+}
